@@ -1,0 +1,28 @@
+.main{
+
+    border:1px solid black;
+    border-radius: 5px;
+    height: 500px;
+    width:350px !important;
+    margin:50px auto !important;
+}
+
+.txt{
+    text-align: center;
+    margin:20px auto !important;
+}
+
+.taskTxt{
+    padding:10px 40px;
+    overflow: scroll !important;
+    height: 330px;
+}
+
+.list-group-item{
+
+    display:flex !important;
+    justify-content: space-between !important;
+}
+
+
+
